@@ -5,4 +5,4 @@ SourceTree是一款免费的Git和Hg客户端管理工具，同时也是Mercuria
 [SourceTree](https://pc.qq.com/detail/17/detail_23237.html)
 
 # 视频教程
-[SourceTree视频教程](https://mp.weixin.qq.com/s?__biz=MzU0MzQwOTU1MQ==&tempkey=MTA3Nl9TWjFnMmY5NTdieDlBQ1pISkdaS1piMkZDX2RvWWdBTDhVZlRvYXFONEFBS0FiUW85VWJrMGEwUk1lRWJKWS1IVzNPVXZ6TUxISnV3dFpEYjY5SU94QXRmRTRLREUwWEo4MDJhaFRnR0NOb0NsWnRNc01ZT3hRd0t2OWlBWFZHRlpjTzVjaUNSUUZodlFfdXFmUjktSWxuRVBKaXVMUGlnejRtUURRfn4%3D&chksm=7b0a9c5e4c7d1548772336175e93f489c6cb23cd822726fa1706c3c2c1a2d565b842b22d48c1#rd)
+[SourceTree视频教程](https://mp.weixin.qq.com/s/SH3-J87N2zXAivNaleH25g)
